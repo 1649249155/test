@@ -1,0 +1,23 @@
+﻿柚子
+SELECT * FROM `ims_yzbld_sun_orders` WHERE pay_at > '2019-11-0121:08:58' and pay_at <'2019-12-01 00:00:00' ORDER BY `ims_yzbld_sun_orders`.`pay_at` DESC
+
+PSEBZ-PKM3Q-H3E5X-GXFZR-Y5FB3-AVF73 腾讯
+
+2e9bc40058b46ca47e73bddf41c621d7.pem   apiclientkeypem
+3f8f14ed5fa544fb885165d2eec41e31.pem  apiclient_cert.pem
+wxc271c065816b893b
+f167592ea7d185a0e8e4db480c5711fc
+
+1528019121  商户号
+1649249155a1649249155a1649249155  商户密钥
+
+nel: http://49.233.177.154:8888/ec073825
+username: cga8bccb
+password: e5531f0b
+
+数据表
+7  70   700  
+
+升级 计划
+
+上门自取看不到订单详情 ，费用超过多少免配送费， 订单超过多久自动核销，删除订单后店铺销售额也减少.
